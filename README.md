@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvismaicol/)
 
-![Elvis GitHub stats](https://github-readme-stats.vercel.app/api?username=elvismaicol&show_icons=true&theme=dark) 
-  
+![Elvis GitHub stats](https://github-readme-stats.vercel.app/api?username=elvismaicol&theme=dark&show_icons=true) 
+
 ## Tecnologias que tenho estudado
 
 <div styLe="display:inline_block" >
