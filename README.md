@@ -1,4 +1,7 @@
 ### Saudações, seja bem vinda(o)!!! Eu sou o Elvis Maicol 👋
+
+#### Sou Engenheiro de Dados e atualmente estou desenvolvendo utilizando PySpark, Python e SQL. 
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvismaicol/)
